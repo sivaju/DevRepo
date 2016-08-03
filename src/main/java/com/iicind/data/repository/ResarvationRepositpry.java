@@ -8,4 +8,6 @@ import org.springframework.data.repository.CrudRepository;
  */
 public interface ResarvationRepositpry extends CrudRepository<ResarvationEvent,Integer>{
 
+    public void add();
+
 }

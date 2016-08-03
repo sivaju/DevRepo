@@ -17,10 +17,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 //@RequestMapping("/resarvationEvent")
 public class ResarvationController
 {
+  @Autowired
+ private ResarvationDao dao;
+
     @Autowired
     ResarvationRepositpry resarvationRepositpry;
-    @Autowired
-    ResarvationDao dao;
 
 
 //    public void bookTicket() {

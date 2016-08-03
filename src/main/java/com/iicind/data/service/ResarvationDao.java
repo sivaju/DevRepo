@@ -1,6 +1,7 @@
 package com.iicind.data.service;
 
 import com.iicind.data.model.ResarvationEvent;
+import com.iicind.data.repository.ResarvationRepositpry;
 import org.springframework.jdbc.core.JdbcTemplate;
 
 /**
