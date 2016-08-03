@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Applications/oracle/product/instantclient_64/11.2.0.4.0/jdbc/lib/ojdbc5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
